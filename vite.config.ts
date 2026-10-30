@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    ase: '/R-Inferential-Statistics-lab/',
+    base: '/R-Inferential-Statistics-lab/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
