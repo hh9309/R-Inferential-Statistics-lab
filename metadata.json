@@ -1,0 +1,6 @@
+{
+  "name": "R-Statistical-Inference-lab",
+  "description": "R 统计推断与假设检验 WebApp 实验室：概率抽样、参数估计、显著性检验、R代码引擎与智能诊断随诊平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
